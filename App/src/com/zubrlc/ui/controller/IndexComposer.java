@@ -23,7 +23,7 @@ public class IndexComposer extends GenericAutowireComposer<Component>{
 	
 	public void init(){
 		System.out.println("l1="+l1);
-		l1.setValue("Текст");
+		l1.setValue("Текст2");
 	}
 
 	
